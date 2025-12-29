@@ -15,3 +15,5 @@ Mentor development teams on modern best practices and architectural patterns
 Technical strategy & code review for complex projects
 
 Expertise: Full-stack JavaScript/TypeScript, AWS cloud architecture, microservices, Docker, Kubernetes, REST API design, database optimization, security implementation.
+
+Contact: tomasz_waszczyk@icloud.com
